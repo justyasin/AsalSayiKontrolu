@@ -1,2 +1,2 @@
 # AsalSayiKontrolu
-Sayının asal olup olmadığını fonksiyon yardımıyla kontrol etme.
+Sayının asal olup olmadığını fonksiyon yardımıyla kontrol eden program kodu.
